@@ -1,6 +1,5 @@
 # github
 git
-Ruchira Dilip Kamble
-Serving for IT industry
-
-
+Ruchira Dilip Kamble <br>
+Serving for IT industry <br>
+A Diploma student 
